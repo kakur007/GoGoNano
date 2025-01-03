@@ -1,9 +1,6 @@
 Product Lines
 ============
 
-Surface-Specific Solutions
-------------------------
-
 Textile & Leather Protection
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 * Clothing protection

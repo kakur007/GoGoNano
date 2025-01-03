@@ -1,13 +1,21 @@
 Welcome to GoGoNano Documentation
 ================================
 
+GoGoNano - Advanced Nanotechnology Surface Protection
+--------------------------------------------------
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
    about
-   products
    technology
-   guides
+   products
+   applications
+   features
+   business
+   contact
 
-GoGoNano provides innovative nanotechnology-based surface protection solutions. This documentation covers our products, technology, and application guides.
+#GoGoNano #Nanotechnology #SurfaceProtection #EcoFriendly #MadeInEstonia
+
+© 2024 GoGoNano. All rights reserved.

@@ -117,4 +117,4 @@ Our continuous R&D focuses on:
 #GoGoNano #Nanotechnology #SurfaceProtection #EcoFriendly #MadeInEstonia
 
 ---
-© 2024 GoGoNano. All rights reserved.
+© 2015-2025 GoGoNano. All rights reserved.
